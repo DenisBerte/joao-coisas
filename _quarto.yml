@@ -2,9 +2,9 @@
 
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
-  image: img/my_image.jpg
+  title: "João Coisas"                                # Your name
+  description: "eu sou o João"   # A brief slogan (optional)
+  image: img/tota.jpg
   
   favicon: img/favicon.png
   
@@ -15,24 +15,18 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
+      - text: "Coisas"
         href: projects/index.qmd
-      - text: "Photography"
+      - text: "Fotos e vídeos"
         href: photography/index.qmd
-      - text: "CV"
-        href: cv/index.qmd
+      - text: "Livro"
+        href: livro/index.qmd
     
     # your social media handles
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
-      - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
-      - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:joaossalvia@gmail.com"  
   
   
 
