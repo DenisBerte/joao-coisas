@@ -4,14 +4,14 @@ title: Coisas e mais ainda
 
 ## mais coisas é claro
 
-<img src="img1.png" style="height: 100%; width: 100%; object-fit: 
+<img src="img1.jpg" style="height: 100%; width: 100%;"/> 
 
 
 ----
 
 ## olá
 
-<img src="img2.png" style="height: 100%; width: 100%;"/>
+<img src="img2.jpg" style="height: 100%; width: 100%;"/>
 
 
 
